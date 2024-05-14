@@ -10,3 +10,6 @@ create an intuitive web interface enabling users to write blogs, register accoun
 user-contributed content. Leveraging Convolutional Neural Networks (CNNs) for malaria 
 cell classification.
 
+## Output Video:
+![Output](https://github.com/h-ema-r/Django-projects/blob/main/BioBlogs%20and%20MalariaCellClassifier-django.zip)
+
