@@ -33,7 +33,7 @@ same 2 classes for validation. Here are further details:
 **requirements.txt:**
 This file contains all the dependencies required to run the application.
 
-**models1/malaria-detection.ipynb**
+**BioBlogsNMalariaCellClassifier/models1/malaria-detection.ipynb**
 - This notebook contains the code for training a malaria detection model using Convolutional Neural Network (CNN).<br>
 - Once training is completed, the trained model is saved to a file using following command for future use.<br>
 ```bash
